@@ -22,3 +22,10 @@ To complete the task, I also had to deploy the smart contract on a blockchain en
 This task also helped me understand how transparent and secure blockchain systems are. Every transaction, balance update, and rule execution is recorded automatically. Nothing can be changed from behind the scenes. Whatever rules I wrote inside the smart contract cannot be broken once deployed. This teaches an important lesson: writing smart contracts requires careful thought because once they go live, they cannot be edited easily.
 
 Throughout this task, I gained a much clearer understanding of how cryptocurrencies work at a basic level. Even though this token system was simple, the same ideas are used in real-world applications like Ethereum, USDT, NFTs, and many decentralized apps. Learning how to write, deploy, and test a smart contract gives a strong foundation for more advanced blockchain development in the future.
+
+
+OUTPUT:
+
+<img width="944" height="417" alt="Image" src="https://github.com/user-attachments/assets/dde2d2ec-fa2b-430f-b882-3bf53dccbc79" />
+
+<img width="935" height="491" alt="Image" src="https://github.com/user-attachments/assets/51d37a57-83c2-4804-a89f-b445d7eb39cf" />
